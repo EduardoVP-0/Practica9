@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(199, 247, 247);
+}
+nav{
+    background-color: rgb(56, 55, 55);
+}
+footer{
+    background-color: #337DC2;
+    width: 100%; 
+    min-height: 260px; 
+    padding: 20px 0; 
+}
+.row {
+    margin: 0; 
+}
+article .card-link {
+    margin-bottom: 15px;
+    display: inline-block;
+}
