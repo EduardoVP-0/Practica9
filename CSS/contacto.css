@@ -5,14 +5,10 @@
 nav{
     background-color: rgb(56, 55, 55);
 }
-.col-md-8 img{
-    height: 150px;
-}
 footer{
     margin-top: 20px;
     height: 160px;
 }
-.embed-responsive iframe{
-    height: 250px;
-    width: 100%;
+.col-md-6 img{
+    height: 150px;
 }
